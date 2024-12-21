@@ -109,7 +109,7 @@ intersectionAreaMultiRect(incorrect_rectangles)  # Вызовет ошибку
 <aside>
 
 </aside>
-
+ 
 ## Задание 6
 
 Импортировать все функции из пакета в файл [`main.py`](http://main.py) , и привести примеры использования каждой из них.  
