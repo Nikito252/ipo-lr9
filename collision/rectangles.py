@@ -39,4 +39,4 @@ def intersectionAreaMultiRect(rectangles):
         for rect2 in rectangles[i+1:]:
             total_intersection_area += intersectionAreaRect(rect1, rect2)
 
-    return total_intersection_area
+    return total_intersection_area 
